@@ -20,7 +20,7 @@ UniTechHR is a clustering and recommendation system designed to enhance employee
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayr-o1/capstone-unitechhr/edit/main/README.md
+   git clone https://github.com/jayr-o1/capstone-unitechhr
    
 2. Navigate to the project directory:
    ```bash
